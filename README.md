@@ -66,7 +66,5 @@ Tooba-Innovaxel-Eman/
 ├── app1.py               # Flask backend
 ├── templates/
 │   └── index.html       # UI frontend
-├── static/
-│   └── style.css        # css for attractive visualization
 ├── requirements.txt     # Python packages
 └── README.md            # Project info
